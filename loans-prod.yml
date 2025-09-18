@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Welcome to eazyBank - Production related apps"
+  message: "Welcome to eazyBank - Prod related apps"
   contactInfo:
     name: "Sandhya"
     email: "s@gmail.com"
