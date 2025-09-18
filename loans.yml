@@ -1,11 +1,9 @@
-spring:
-  application:
-    name: loans
-springdoc:
-  api-docs:
-    enabled: true
-  swagger-ui:
-    path: /swagger-ui.html
+build:
+  version: 3.0
 
-server:
-  port: 8200
+account:
+  message: "Welcome to eazyBank - default"
+  contactInfo:
+    name: "Sandhya"
+    email: "s@gmail.com"
+  onCallSupport: 89099999
