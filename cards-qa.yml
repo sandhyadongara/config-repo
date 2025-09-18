@@ -1,0 +1,9 @@
+build:
+  version: 2.0
+
+cards:
+  message: "Welcome to eazyBank - Production"
+  contactInfo:
+    name: "Sandhya"
+    email: "s@gmail.com"
+  onCallSupport: 89099999

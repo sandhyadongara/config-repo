@@ -1,0 +1,9 @@
+build:
+  version: 3.0
+
+account:
+  message: "welcome to eazyBank"
+  contactInfo:
+    name: "sandhya"
+    email: "s@gmail.com"
+  onCallSupport: 89099999
