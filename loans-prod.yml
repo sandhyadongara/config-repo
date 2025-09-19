@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Welcome to eazyBank - Prod related apps"
+  message: "Welcome to eazyBank - Prod-cloudBus"
   contactInfo:
     name: "Sandhya"
     email: "s@gmail.com"
