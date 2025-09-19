@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 account:
-  message: "Welcome to eazyBank - Prod-cloudBus"
+  message: "Welcome to eazyBank - Prod-webhook"
   contactInfo:
     name: "Sandhya"
     email: "{cipher}e8f9afb9945352651c55a0da33069301dd6362219c16c9e338a0c1e1fb5e8878"
